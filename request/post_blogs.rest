@@ -2,7 +2,7 @@ POST http://localhost:3003/api/blogs
 content-type: application/json
 
 {
-    "title": "Prueba de blogs ejercicio 4.1",
+    "title": "intro a pruebas",
     "author": "leo",
     "url": "www.leo.com",
     "likes": "2"
